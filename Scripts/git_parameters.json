@@ -1,0 +1,52 @@
+[
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Product_Categories_Lookup.csv",
+        "p_sink_folder" : "AdventureWorks_Product_Categories_Lookup",
+        "p_sink_file" : "AdventureWorks_Product_Categories_Lookup.csv"
+    },
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Calendar_Lookup.csv",
+        "p_sink_folder" : "AdventureWorks_Calendar_Lookup",
+        "p_sink_file" : "AdventureWorks_Calendar_Lookup.csv"
+    },
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Customer_Lookup.csv",
+        "p_sink_folder" : "AdventureWorks_Customer_Lookup",
+        "p_sink_file" : "AdventureWorks_Customer_Lookup.csv"
+    },
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Product_Subcategories_Lookup.csv",
+        "p_sink_folder" : "AdventureWorks_Product_Subcategories_Lookup",
+        "p_sink_file" : "AdventureWorks_Product_Subcategories_Lookup.csv"
+    },
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Product_Lookup.csv",
+        "p_sink_folder" : "AdventureWorks_Product_Lookup",
+        "p_sink_file" : "AdventureWorks_Product_Lookup.csv"
+    },
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Returns_Data.csv",
+        "p_sink_folder" : "AdventureWorks_Returns_Data",
+        "p_sink_file":"AdventureWorks_Returns_Data.csv"
+    },
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Sales_Data_2020.csv",
+        "p_sink_folder" : "AdventureWorks_Sales_Data_2020",
+        "p_sink_file" : "AdventureWorks_Sales_Data_2020.csv"
+    },
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Sales_Data_2021.csv",
+        "p_sink_folder" : "AdventureWorks_Sales_Data_2021",
+        "p_sink_file" : "AdventureWorks_Sales_Data_2021.csv"
+    },
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Sales_Data_2022.csv",
+        "p_sink_folder" : "AdventureWorks_Sales_Data_2022",
+        "p_sink_file" : "AdventureWorks_Sales_Data_2022.csv"
+    },
+    {
+        "p_rel_url" : "kishlayaug15/adventureworks-data-engineering-project/main/data/AdventureWorks_Territory_Lookup.csv",
+        "p_sink_folder" : "AdventureWorks_Territory_Lookup",
+        "p_sink_file" : "AdventureWorks_Territory_Lookup.csv"
+    }
+]
